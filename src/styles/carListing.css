@@ -1,0 +1,14 @@
+.car-input{
+    width: 25rem;
+    padding: 8px;
+    border: solid 1px grey;
+    border-radius: 10px;
+}
+.car-search-input{
+    margin-bottom: 20px;
+}
+.car_list{
+    margin: 0 5rem;
+    max-height: 67vh;
+    overflow-y: scroll;
+}
